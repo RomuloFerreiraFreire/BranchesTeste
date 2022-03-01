@@ -61,8 +61,10 @@ font-size: 12px;
     border-style: solid;
 border-color: rgb(112, 11, 245);
 border-radius: 10px;
+}   
 
-   
-}          
+#subconteudo{
+  align-items: center;
+}
 
         
