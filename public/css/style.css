@@ -10,8 +10,8 @@ font-size: 12px;
           #div1{
             width: 40px;
             margin-top:20px;
-            margin-left: 3px;
-            position: fixed;
+            margin-left: 8px;
+            position: absolute;
   top: 0;
   left: 0;
   align-items: center;
@@ -20,8 +20,8 @@ font-size: 12px;
           #div2{
             width: 40px;
             margin-top:20px;
-            margin-left: 55px;
-            position: fixed;
+            margin-left: 8px;
+            position: absolute;
   top: 0;
   left: 0;
   align-items: center;
