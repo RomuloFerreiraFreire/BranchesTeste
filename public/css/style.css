@@ -47,6 +47,17 @@ body{
   margin-top: 10px;
   margin-bottom: 20px;
 }
+#contato{
+  width: 10%;
+  height: 10%;
+  margin-bottom: 10px;
+}
+#txt{
+  margin-top: 5;
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
 
 
 
