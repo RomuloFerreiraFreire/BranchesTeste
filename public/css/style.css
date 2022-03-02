@@ -10,7 +10,7 @@ font-size: 12px;
           #div1{
             width: 50px;
             margin-top:20px;
-            margin-left: 5px;
+            margin-left: auto;
             position: fixed;
  
   
@@ -20,7 +20,7 @@ font-size: 12px;
             
             width: 50px;
             margin-top:20px;
-            margin-left: 58px;
+            margin-left: auto;
             position: fixed;
   
  
@@ -28,7 +28,7 @@ font-size: 12px;
           #div3{
             width: 50px;
             margin-top:20px;
-            margin-left: 105px;
+            margin-left: auto;
             position: fixed;
   
   
@@ -36,7 +36,7 @@ font-size: 12px;
           #div4{
             width: 50px;
             margin-top:20px;
-            margin-left: 155px;
+            margin-left: auto;
             position: fixed;
  
  
